@@ -1,0 +1,33 @@
+*{
+    font-size: 21px;
+    color: white;
+    font-family: cursive;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.container{
+    display: flex;
+    width: 63%;
+    margin: auto;
+    margin-top: 15rem;
+}
+
+.soundMark{
+    width: 7rem;
+    height: 3rem;
+    text-align: center;
+    background-color: #0000006e;
+    margin: 4px 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.soundMark:hover{
+    background-color: #00000042;
+}
+h1{
+    margin-top: 12px;
+}
